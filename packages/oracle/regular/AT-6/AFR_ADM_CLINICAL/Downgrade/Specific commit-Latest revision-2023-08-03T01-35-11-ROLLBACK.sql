@@ -8,6 +8,7 @@ Alter script for TABLE type is not supported yet
 
 ========================================================================
 */
+ALTER TABLE CCR_APPL_PARAMS DROP COLUMN ADD_COLUMN;
 ALTER TABLE CCR_APPL_PARAMS DROP COLUMN ADDITIONAL_COLUMN;
 
 --### TABLE 'CCR_APPL_PARAMS' has changed. Alter script for TABLE type is not supported yet. Please add here the alter script manually ###

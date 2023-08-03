@@ -8,6 +8,7 @@ Alter script for TABLE type is not supported yet
 
 ========================================================================
 */
+ALTER TABLE CCR_APPL_PARAMS ADD (ADD_COLUMN VARCHAR2(20));
 ALTER TABLE CCR_APPL_PARAMS ADD (ADDITIONAL_COLUMN VARCHAR2(20));
 
 --### TABLE 'CCR_APPL_PARAMS' has changed. Alter script for TABLE type is not supported yet. Please add here the alter script manually ###
